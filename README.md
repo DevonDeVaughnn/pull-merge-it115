@@ -8,4 +8,9 @@ Once upon a time, there was a programmer who mightly struggled with figuring out
 
 The instructor showed up and didn't understand why the programmer and the group hadn't come up with a topic yet. Blank stares.
 
+
+
+
 How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+
+Fortunately he found a smart person to ask and figured it out
