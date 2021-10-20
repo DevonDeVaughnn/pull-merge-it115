@@ -6,4 +6,4 @@ Fortunately he found a smart person to ask and figured it out
 
 How much wood would a woodchuck chuck if a woodchuck could chuck wood?
 
-
+If a woodchuck could chuck wood, he would chuck all the wood he could chuck, but that's not really the point. I think it's a good idea to delete each branch as soon as the branch has been merged with the main branch. That will probably cut down on the weird stuff that was happening yesterday.
