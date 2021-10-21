@@ -1,4 +1,4 @@
-#Github Workflow: trials and tribulations: or how I learned to stop editing Main and love the branch
+# Github Workflow: trials and tribulations: or how I learned to stop editing Main and love the branch
 
 Once upon a time, there was a programmer and a group who mightly struggled with figuring out how to use GitHub and all of its features. Mores specifically, the CLI. They tried googling and asking around but nothing seemed to stick. Google seemed like a bottomless pit of information and they were trying their hardest to figure this out.
 
