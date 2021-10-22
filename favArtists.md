@@ -3,6 +3,8 @@
 ## Ted's favorite artists
 
 * Steely Dan
+* Sturgill Simpson
+* Simon & garfunkel
 
 
 Nicks Artist List
