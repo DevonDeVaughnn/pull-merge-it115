@@ -3,11 +3,15 @@
 ## Ted's favorite artists
 
 * Steely Dan
+* Sturgill Simpson
+* Simon & garfunkel
 
 
-Nicks Artist List
+## Nicks Artist List
 
--Puff Daddy
+* Puff Daddy
+* John Wayne
+* John Gacey
 
 Nhi's favorite artist
 
