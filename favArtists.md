@@ -13,6 +13,7 @@
 * John Wayne
 * John Gacey
 
-Nhi's favorite artist
+## Nhi's favorite artist
 
-The Beatles
+* The Beatles
+* Taylor Swift
