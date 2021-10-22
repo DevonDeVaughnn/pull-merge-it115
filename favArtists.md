@@ -3,3 +3,12 @@
 ## Ted's favorite artists
 
 * Steely Dan
+
+
+Nicks Artist List
+
+-Puff Daddy
+
+Nhi's favorite artist
+
+The Beatles
